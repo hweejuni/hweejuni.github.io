@@ -10,8 +10,8 @@ owner: "Lee"
 # To disable set enable to false
 quote:
   enable: true
-  quote: Some fancy quote
-  author: John Doe
+  quote: "There's no sense in being precise when you don't even know what you're talking about."
+  author: John von Neumann
 
 # Set this to your main site title. If page doesn't have its own title,
 # then this title will be used.
