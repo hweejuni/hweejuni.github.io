@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MY first post
+title: The haling problem
 category: example
 comments: true
 description: Written on 31th July 2020 
